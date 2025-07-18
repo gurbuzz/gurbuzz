@@ -1,14 +1,10 @@
 # Merhaba 👋, ben Atacan Gürbüz
 
-## 🚀 Yazılım Dünyasındaki Yolculuğum
+## 🎓 Hakkımda
 
-🎯 Şu anda aktif olarak **Laravel, Python, React** ile projeler geliştiriyorum.  
-🌱 Yeni teknolojileri öğrenmeyi seviyorum. Son zamanlarda **LLM, Ollama, Hugging Face** gibi yapay zeka araçlarıyla çalışıyorum.  
-🧠 Özellikle **Yapay Zeka, Backend Geliştirme, API, Web Uygulamaları** konularında çalışmayı seviyorum.  
+> Yazılım geliştirme tutkusu olan, farklı teknolojilerle projeler geliştirmiş bir bilgisayar mühendisiyim. Full-stack geliştirme, yapay zeka projeleri ve modern web teknolojileriyle yakından ilgileniyorum. Hızlı adapte olurum, üretkenim ve öğrenmeyi severim 🚀 
 📬 Bana ulaş: [xatacan.gurbuz@gmail.com](mailto:xatacan.gurbuz@gmail.com)
 ---
-## 🌐 Benimle İletişime Geç:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/atacan-gurbuz)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@atacan.gurbuz)
 ---
@@ -24,7 +20,5 @@
 <img src="https://img.shields.io/badge/LLM-FFB000?logo=openai&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
 
-## 🎓 Hakkımda
 
-> Yazılım geliştirme tutkusu olan, farklı teknolojilerle projeler geliştirmiş bir bilgisayar mühendisiyim. Full-stack geliştirme, yapay zeka projeleri ve modern web teknolojileriyle yakından ilgileniyorum. Hızlı adapte olurum, üretkenim ve öğrenmeyi severim 🚀
 
