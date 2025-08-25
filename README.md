@@ -1,5 +1,3 @@
-# HI 👋, ben Ata
-
 ## 🎓 Summary
 
 > I am a software developer with a passion for software development and who has developed projects with different technologies. I'm working full-stack. I am closely interested in artificial intelligence projects and modern web technologies. I adapt quickly, I am productive and I like to learn 🚀
